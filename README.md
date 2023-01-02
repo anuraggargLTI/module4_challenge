@@ -12,6 +12,6 @@ There are below functionality that are provided in the program:
     1) daily returns of four portfolios and S&P 500  
     2) annualized returns of four portfolios and S&P 500  
     3) calculate and plot Sharpe ratio  
-    4) calculate and plot covariance 
+    4) calculate and plot covariance  
     5) Beta comparisions of four portfolios and S&P 500
 
